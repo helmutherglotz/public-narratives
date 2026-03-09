@@ -144,3 +144,5 @@ provider: TU Wien ESEA,AIT Center for Energy
 <p style="text-align: justify;"/> TU Wien and AIT acts as provider for this service.
 
 <p style="text-align: justify;"/> EOX complements with its IT expertise, acting as host and front-end expert.
+
+##  <!--{as="img" data-fallback-src="https://raw.githubusercontent.com/nipargar/public-narratives/nipargar/bioenergy-newsess/assets/nipargar/KLIEN-Logo-RBG-1773066447827.png" src="https://raw.githubusercontent.com/GTIF-Austria/public-narratives/f7cd8bffa0111456a1534feb8c34dae1fa973f1c/assets/KLIEN-Logo-RBG-1773066447827.png" style="width: 100%; height: 600px;"}-->
