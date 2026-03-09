@@ -85,3 +85,5 @@ provider: Umweltbundesamt,AIT Center for Energy
 
 <p style="text-align: justify;"/>EOX complements with its IT expertise, acting as host and front-end expert.
 
+
+##  <!--{as="img" data-fallback-src="https://raw.githubusercontent.com/nipargar/public-narratives/nipargar/pv-newsess/assets/nipargar/KLIEN-Logo-RBG-1773065737759.png" src="https://raw.githubusercontent.com/GTIF-Austria/public-narratives/472399b2cdeaead794ddfd01003650884e4c1c70/assets/KLIEN-Logo-RBG-1773065737759.png" style="width: 100%; height: 600px;"}-->
