@@ -40,3 +40,5 @@ provider: AIT Center for Energy,Umweltbundesamt,Energiewerkstatt
 <p style="text-align: justify;"/> AIT acts as provider for this service and largely builds on data provided by UBA and Energiewerkstatt.
 
 <p style="text-align: justify;"/> EOX complements with its IT expertise, acting as host and front-end expert.
+
+##  <!--{as="img" data-fallback-src="https://raw.githubusercontent.com/nipargar/public-narratives/nipargar/comparison-electricity-newsess/assets/nipargar/KLIEN-Logo-RBG-1773066111709.png" src="https://raw.githubusercontent.com/GTIF-Austria/public-narratives/00bd22ceb7ac7072922dc1e1524d12ed4e8e8f21/assets/KLIEN-Logo-RBG-1773066111709.png" style="width: 100%; height: 600px;"}-->
