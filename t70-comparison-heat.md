@@ -40,3 +40,5 @@ provider: AIT Center for Energy,AEE INTEC
 <p style="text-align: justify;"/> AEE INTEC and AIT acts as provider for this service and largely builds on data provided by AEE INTEC.
 
 <p style="text-align: justify;"/> EOX complements with its IT expertise, acting as host and front-end expert.
+
+##  <!--{as="img" data-fallback-src="https://raw.githubusercontent.com/nipargar/public-narratives/nipargar/comparisson-heat-newsess/assets/nipargar/KLIEN-Logo-RBG-1773066242940.png" src="https://raw.githubusercontent.com/GTIF-Austria/public-narratives/4b77408fd33c83ad2fc5a74cf3bd74c152c5383b/assets/KLIEN-Logo-RBG-1773066242940.png" style="width: 100%; height: 600px;"}-->
