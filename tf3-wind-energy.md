@@ -85,3 +85,5 @@ provider: AIT Center for Energy,Energiewerkstatt
 
 <p style="text-align: justify;"/>EOX complements with its IT expertise, acting as host and front-end expert.
 
+
+##  <!--{as="img" data-fallback-src="https://raw.githubusercontent.com/nipargar/public-narratives/nipargar/wind-newsess/assets/nipargar/KLIEN-Logo-RBG-1773066331982.png" src="https://raw.githubusercontent.com/GTIF-Austria/public-narratives/ead41027fa1e2f4daf94dd6f958b7b86c7bf115f/assets/KLIEN-Logo-RBG-1773066331982.png" style="width: 100%; height: 600px;"}-->
