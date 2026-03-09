@@ -160,3 +160,5 @@ provider: AEE INTEC,AIT Center for Energy
 <p style="text-align: justify;"/>EOX complements with its IT expertise, acting as host and front-end expert.
 
 
+
+##  <!--{as="img" data-fallback-src="https://raw.githubusercontent.com/nipargar/public-narratives/nipargar/solar-thermal-newsess/assets/nipargar/KLIEN-Logo-RBG-1773065851285.png" src="https://raw.githubusercontent.com/GTIF-Austria/public-narratives/c457aacdfd26ea59d914dd538a30c2371d235c17/assets/KLIEN-Logo-RBG-1773065851285.png" style="width: 100%; height: 600px;"}-->
