@@ -256,3 +256,5 @@ The underlying INXS study identifies a total technical excess heat potential of 
 <p style="text-align: justify;"/> EOX complements with its IT expertise, acting as host and front-end expert.
 
 
+
+##  <!--{as="img" data-fallback-src="https://raw.githubusercontent.com/nipargar/public-narratives/nipargar/waste-heat-newsess/assets/nipargar/KLIEN-Logo-RBG-1773065966951.png" src="https://raw.githubusercontent.com/GTIF-Austria/public-narratives/61a96909772017544efb057e924782f707598c66/assets/KLIEN-Logo-RBG-1773065966951.png" style="width: 100%; height: 600px;"}-->
